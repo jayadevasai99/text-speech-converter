@@ -41,13 +41,12 @@ textarea::placeholder{
     color: #dbd6d6;
 }
 .row {
-  width: 600px;
-  display: flex;
-  align-items: center;
-  flex-direction: column; /* Change flex-direction to column to stack vertically */
-  gap: 23px;
-}
-}
+    width: 600px;
+    display: flex;
+    align-items: center;
+    flex-direction: column; /* Change flex-direction to column to stack vertically */
+    gap: 23px;
+  }
 button{
     background: #ff2963;
     color: #fff;
